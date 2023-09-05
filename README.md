@@ -15,3 +15,6 @@ Intensive course on Mastering SQL Syntax in Microsoft SQL Server.
 - Between/Not Between, Like/Not Like, Case When, Concatenation, Format
 - Isnull, Alter Table, Update, DateName, Delete Row, Drop Column
 - Left/Right, Left Join, Inner Query (Subquery), Self Join
+
+## Dataset
+[Create Database](https://github.com/Dimitrov-S-Dev-Python/Sales_Report_PBI/tree/master/3.Data%20Cleaning%20%26%20Transformation)
