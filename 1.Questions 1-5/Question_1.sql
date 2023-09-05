@@ -5,6 +5,10 @@
 --c. Based on hire date what is the first and last name of the newest employee?
 
 
+
+
+=====================================================================================
+
 SELECT
 	*
 FROM
@@ -36,4 +40,3 @@ FROM
 	Employee
 ORDER BY
 	Hire_Date DESC
-
