@@ -7,8 +7,7 @@ Intensive course on Mastering SQL Syntax in Microsoft SQL Server.
 
 - All the questions are answered using the Microsoft Sample database, Pubs.
 
-- List of commands used in course questions:
----
+## List of commands used in course questions:
 
 - Select, From, Select Top, Where, Order by
 - Group by, Count, Inner Join, Distinct, Having, Sum, Avg, Min, Max
