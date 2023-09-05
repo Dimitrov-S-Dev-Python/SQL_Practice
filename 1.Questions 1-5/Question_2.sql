@@ -16,20 +16,14 @@ FROM
 
 --a
 
-SELECT
-	COUNT(Title_id) AS CNT,
-	COUNT(DISTINCT Title_id) AS DistinctCNT
-FROM
-	TitleAuthor
+SELECT COUNT(Title_id) AS CNT,
+       COUNT(DISTINCT Title_id) AS DistinctCNT
+  FROM TitleAuthor
 
 --b
 
-SELECT
-	Title_id,
-	COUNT(Authors_id) AS CNT
-FROM
-	TitleAuthor
-GROUP BY
-	Title_id
-ORDER BY
-	CNT DESC
+SELECT Title_id,
+       COUNT(Authors_id) AS CNT
+  FROM TitleAuthor
+ GROUP BY Title_id
+ ORDER BY CNT DESC

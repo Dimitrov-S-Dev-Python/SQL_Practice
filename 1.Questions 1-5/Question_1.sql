@@ -16,27 +16,18 @@ FROM
 
 -- a
 
-SELECT
-	COUNT(*) AS EmployeeCount
-FROM
-	Employee
+SELECT COUNT(*) AS EmployeeCount
+  FROM Employee
 
 --b
 
-SELECT
-	COUNT(MiddleInitial) AS MiddleInitial
-FROM
-	Employee
-WHERE
-	MiddleInitial IS NOT NULL
+SELECT COUNT(MiddleInitial) AS MiddleInitial
+  FROM Employee
+ WHERE MiddleInitial IS NOT NULL
 
 -- c
 
-SELECT
-	TOP 1
-	FirstName,
-	LastName
-FROM
-	Employee
-ORDER BY
-	Hire_Date DESC
+SELECT TOP 1 FirstName,
+       LastName
+  FROM Employee
+ ORDER BY Hire_Date DESC
