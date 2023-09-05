@@ -17,4 +17,4 @@ Intensive course on Mastering SQL Syntax in Microsoft SQL Server.
 - Left/Right, Left Join, Inner Query (Subquery), Self Join
 
 ## Dataset
-[Create Database](https://github.com/Dimitrov-S-Dev-Python/Sales_Report_PBI/tree/master/3.Data%20Cleaning%20%26%20Transformation)
+[Create Database](https://github.com/Dimitrov-S-Dev-Python/SQL_Practice/blob/master/Dataset/Create%2BPubs%2BDatabase.sql)
