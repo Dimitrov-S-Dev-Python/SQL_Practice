@@ -1,4 +1,4 @@
-# <p align="center"> ![alt text](https://github.com/Dimitrov-S-Dev-Python/SoftUni_MS_SQL/blob/master/SoftUni-Logo.png) <p>
+# <p align="center"> ![alt text](https://github.com/Dimitrov-S-Dev-Python/SQL_Practice/blob/master/udemy_github.jpg) <p>
 # SQL Practice
 Intensive course on Mastering SQL Syntax in Microsoft SQL Server. 
 ## Acquired skills
