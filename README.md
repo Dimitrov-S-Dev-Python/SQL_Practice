@@ -2,11 +2,9 @@
 # SQL Practice
 Intensive course on Mastering SQL Syntax in Microsoft SQL Server. 
 ## Acquired skills
-- This course literally includes 25 Practice SQL Questions! In fact, the majority of questions include multiple parts equal to 80 practice questions.
----
+- This course literally includes 25 Practice SQL Questions!<br>In fact, the majority of questions include multiple parts equal to 80 practice questions.
 
-- All the questions are answered using the Microsoft Sample database, Pubs. The syntax used in SSMS is T-SQL.
----
+- All the questions are answered using the Microsoft Sample database, Pubs.<br>The syntax used in SSMS is T-SQL.
 
 - List of commands used in course questions:
 
